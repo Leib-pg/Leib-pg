@@ -1,6 +1,6 @@
 # Olá, eu sou o Leib Aurélio 👋
 
-Sou um desenvolvedor Front-End iniciante, focado em aprender e aplicar conceitos de desenvolvimento web por meio de projetos práticos.  
+Sou um desenvolvedor Front-End iniciante, focado em aprender e aplicar conceitos de desenvolvimento web por meio de projetos práticos e Desafios.  
 Aqui você vai encontrar meus experimentos, estudos e pequenas aplicações que refletem minha evolução contínua na programação.
 
 ---
@@ -17,7 +17,7 @@ Aqui você vai encontrar meus experimentos, estudos e pequenas aplicações que 
 
 ## 🎯 Objetivo
 
-Transformar aprendizado em projetos reais e úteis, explorando diferentes aspectos do desenvolvimento web.
+Mostrar um pouco da minha evolução e oque faço nos meus estudos, mantendo organização e evoluindo em conhecer
 
 ---
 
