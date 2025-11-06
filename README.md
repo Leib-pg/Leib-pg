@@ -1,7 +1,6 @@
-# Olá, eu sou o Leib Aurélio 👋
+# Prazer, Leib Aurélio 👋
 
-Sou um desenvolvedor Front-End iniciante, focado em aprender e aplicar conceitos de desenvolvimento web por meio de projetos práticos e Desafios.  
-Aqui você vai encontrar meus experimentos, estudos e pequenas aplicações que refletem minha evolução contínua na programação.
+Sou um Dev iniciantes mas ja com alguns projetos praticos em conta, aqui vou colocar meu progresso nas linguagens que vou estudando e visando o aprendizado continuo
 
 ---
 
@@ -12,12 +11,6 @@ Aqui você vai encontrar meus experimentos, estudos e pequenas aplicações que 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![VSCode](https://img.shields.io/badge/VSCode-0078D7?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
----
-
-## 🎯 Objetivo
-
-Mostrar um pouco da minha evolução e oque faço nos meus estudos, mantendo organização e evoluindo em conhecer
 
 ---
 
