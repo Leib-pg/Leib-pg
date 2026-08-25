@@ -59,3 +59,10 @@ Minha principal área de estudo e desenvolvimento:
 ### Cloud Computing — Skill 53
 
 Atualmente estou me preparando para a **WorldSkills nationals 2027**, com foco em Cloud Computing.
+
+📊 GitHub
+<p align="center"> <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Leib-pg&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/> <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leib-pg&layout=compact&theme=dark"/> </p>
+📫 Contato
+GitHub: @Leib-pg
+Email: seu-email@example.com
+LinkedIn: em construção
