@@ -58,40 +58,4 @@ Minha principal área de estudo e desenvolvimento:
 
 ### Cloud Computing — Skill 53
 
-Atualmente estou me preparando para a **WorldSkills 2026**, com foco em Cloud Computing.
-
-Minha preparação envolve principalmente:
-
-```text
-AWS
-├── Networking
-│   ├── VPC
-│   ├── Subnets
-│   ├── Routing
-│   ├── NAT
-│   └── DNS
-│
-├── Security
-│   ├── IAM
-│   ├── Policies
-│   ├── Least Privilege
-│   └── Auditing
-│
-├── Compute
-│   ├── EC2
-│   ├── Auto Scaling
-│   └── Load Balancing
-│
-├── Storage & Database
-│   ├── S3
-│   └── DynamoDB
-│
-├── Automation
-│   ├── CloudFormation
-│   └── CI/CD
-│
-└── Operations
-    ├── CloudWatch
-    ├── Monitoring
-    ├── Troubleshooting
-    └── Fault Finding
+Atualmente estou me preparando para a **WorldSkills nationals 2027**, com foco em Cloud Computing.
