@@ -1,68 +1,67 @@
-# Olá, eu sou Leib Aurélio 👋
+# Leib Aurélio
 
-### Cloud Computing | AWS | Infrastructure | DevOps
+Cloud Computing student focused on AWS, infrastructure and automation.
 
-Sou estudante de tecnologia com foco em **Cloud Computing e infraestrutura em nuvem**, atualmente aprofundando meus conhecimentos principalmente no ecossistema **AWS**.
+Currently studying and building projects around cloud infrastructure, networking,
+security, databases and Infrastructure as Code.
 
-Meu objetivo é construir ambientes em nuvem que sejam **seguros, escaláveis, altamente disponíveis, automatizados e eficientes**.
+## Focus
 
-Atualmente estou direcionando meus estudos para arquitetura cloud, infraestrutura como código, redes, segurança, observabilidade e automação.
+- AWS
+- Cloud Infrastructure
+- Networking
+- Infrastructure as Code
+- Cloud Security
+- Automation
+- Databases
+- Monitoring and Troubleshooting
 
----
+## Technologies
 
-## ☁️ Cloud Computing
+**Cloud**
+  
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![CloudFormation](https://img.shields.io/badge/CloudFormation-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![EC2](https://img.shields.io/badge/EC2-FF9900?style=flat-square&logo=amazonec2&logoColor=white)
+![S3](https://img.shields.io/badge/S3-569A31?style=flat-square&logo=amazons3&logoColor=white)
+![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=flat-square&logo=amazondynamodb&logoColor=white)
 
-Minha principal área de estudo e desenvolvimento:
+**Development & Automation**
 
-- ☁️ Amazon Web Services (AWS)
-- 🏗️ Infrastructure as Code
-- 🔐 IAM e segurança em Cloud
-- 🌐 VPC, Subnets, Route Tables, NAT e Internet Gateway
-- ⚡ Alta disponibilidade e escalabilidade
-- 📦 Containers
-- 📊 Monitoramento e observabilidade
-- 🔄 Automação e DevOps
-- 🗄️ Bancos de dados gerenciados
-- 💾 Armazenamento e backup
-- 🚨 Fault Finding e troubleshooting
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
----
+## WorldSkills
 
-## 🛠️ Tecnologias e Ferramentas
+Cloud Computing — Skill 53
 
-### Cloud & Infrastructure
+Preparing for WorldSkills with a focus on AWS, infrastructure,
+networking, security, automation and troubleshooting.
 
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![CloudFormation](https://img.shields.io/badge/AWS%20CloudFormation-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazondynamodb&logoColor=white)
-![EC2](https://img.shields.io/badge/EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white)
-![S3](https://img.shields.io/badge/S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white)
+## Projects
 
-### DevOps & Automation
+| Project | Description |
+|---|---|
+| AWS Labs | Practical AWS laboratories and infrastructure experiments |
+| CloudFormation | Infrastructure as Code templates and AWS architectures |
+| Cloud & Networking | VPC, routing, subnets and connectivity labs |
+| AWS Security | IAM policies, permissions and security experiments |
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+More projects are being developed and documented as I progress.
 
-### Development
+## Currently learning
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+- AWS architecture
+- Infrastructure as Code
+- Cloud networking
+- IAM and cloud security
+- High availability and scalability
+- Monitoring and troubleshooting
 
----
+## Contact
 
-## 🏆 WorldSkills
+GitHub: [@Leib-pg](https://github.com/Leib-pg)
 
-### Cloud Computing — Skill 53
-
-Atualmente estou me preparando para a **WorldSkills nationals 2027**, com foco em Cloud Computing.
-
-📊 GitHub
-<p align="center"> <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Leib-pg&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/> <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leib-pg&layout=compact&theme=dark"/> </p>
-📫 Contato
-GitHub: @Leib-pg
-Email: seu-email@example.com
-LinkedIn: em construção
+Email: [seu-email@email.com](mailto:seu-email@email.com)
