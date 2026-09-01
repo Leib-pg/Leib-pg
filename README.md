@@ -64,4 +64,4 @@ More projects are being developed and documented as I progress.
 
 GitHub: [@Leib-pg](https://github.com/Leib-pg)
 
-Email: [seu-email@email.com](mailto:seu-email@email.com)
+Email: [leibaraujofarias@gmail.com](mailto:leibaraujofarias@gmail.com)
